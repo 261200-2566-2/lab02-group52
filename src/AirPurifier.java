@@ -14,7 +14,7 @@ class AirPurifier {
     }
 
     void Onoff() {
-        if (power == false) {
+        if (!power) {
             power = true;
         } else {
             power = false;

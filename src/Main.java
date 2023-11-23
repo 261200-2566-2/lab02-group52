@@ -8,7 +8,6 @@ public class Main {
         // Call the OnOff method to toggle the power status
         purifier.Onoff();
         purifier.Onoff();
-        purifier.Onoff();
         purifier.speedwind();
         purifier.speedwind();
         purifier.speedwind();
